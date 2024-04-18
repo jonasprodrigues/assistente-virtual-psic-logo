@@ -67,5 +67,38 @@ Contribuição/Serviço: Sentido de contribuição para a comunidade, voluntaria
         break
     else:
         print("Opção inválida. Por favor, digite 'c' para continuar ou 's' para sair.")
+
+
+
     
-    
+def saude()
+    texto1 = """
+    Faz quanto tempo que você procurou ajuda médica ?
+
+ Você mantem um hábito alimentação saudável ? 
+
+Você tem realizado exercícios regulares ?
+
+Você tem feito um descanso adequado ?
+
+Você tem um sono de qualidade, e com período adequado? 
+
+Você acorda cansado ?
+"""
+
+
+
+def desenvolvimento_pessoal()
+    texto1 =
+"""
+1. Estabelecer metas claras e alcançáveis.
+2. Aprender continuamente, seja por meio da leitura, cursos online, workshops, etc.
+3. Praticar a auto-reflexão e autoconhecimento.
+4. Desenvolver habilidades interpessoais, como comunicação eficaz e empatia.
+5. Cuidar da saúde mental através de práticas como meditação, exercícios de respiração, ou terapia.
+6. Sair da zona de conforto, desafiando-se regularmente.
+7. Construir e manter relacionamentos positivos.
+8. Praticar a gratidão e a positividade.
+9. Equilibrar vida pessoal e profissional para evitar o esgotamento.
+10. Ser paciente consigo mesmo e celebrar o progresso, mesmo que pequeno.
+"""
