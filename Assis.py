@@ -102,3 +102,107 @@ def desenvolvimento_pessoal()
 9. Equilibrar vida pessoal e profissional para evitar o esgotamento.
 10. Ser paciente consigo mesmo e celebrar o progresso, mesmo que pequeno.
 """
+
+
+
+
+
+
+def Carreira_Profissão()
+   vtexto1 =
+"""
+Desenvolver-se na carreira profissional envolve várias etapas
+
+
+ o que você tem feito para adquirir novas habilidades ?
+
+você tem buscado experiências relevantes?
+
+você tem construído networking ?
+
+ o que você tem feito para desenvolver seu autoconhecimento?
+
+quais  cursos você fez ultimamente ?
+
+você tem participado de eventos da sua área?
+
+você tem buscado mentoria ?
+
+ você acha que você se mantem atualizado sobre as tendências do mercado ?
+
+você Tem uma visão clara de seus objetivos ?
+
+você tem trabalhado de forma consistente para alcançá-los ?
+"""
+
+
+
+
+def Carreira_Profissão()
+   vtexto1 =
+"""
+
+"""
+
+
+
+
+
+def Carreira_Profissão()
+   vtexto1 =
+"""
+
+"""
+
+
+
+
+
+
+def Carreira_Profissão()
+   vtexto1 =
+"""
+
+"""
+
+
+
+
+
+
+def Carreira_Profissão()
+   vtexto1 =
+"""
+
+"""
+
+
+
+
+
+def Carreira_Profissão()
+   vtexto1 =
+"""
+
+"""
+
+
+
+
+
+def Carreira_Profissão()
+   vtexto1 =
+"""
+
+"""
+
+
+
+
+
+
+def Carreira_Profissão()
+   vtexto1 =
+"""
+
+"""
