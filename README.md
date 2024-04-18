@@ -8,7 +8,7 @@ assistente virtual que utiliza a ferramenta de psicologo ou coaches chamado de r
 
 🔳 Criar as opções das áreas da 2a camada
 
-🔳 Criar a introdução, perguntando se quer explicação, opções S e N
+✅ Criar a introdução, perguntando se quer explicação, opções S e N
 
 🔳
 
