@@ -4,7 +4,7 @@ assistente virtual que utiliza a ferramenta de psicologo ou coaches chamado de r
 
 ✅ Solicitar notas das 8 áreas 
 
-🔳 Identificar as 2 áreas piores
+✅ Identificar as 2 áreas piores
 
 🔳 Criar as opções das áreas da 2a camada
 
