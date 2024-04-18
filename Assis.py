@@ -138,10 +138,31 @@ você tem trabalhado de forma consistente para alcançá-los ?
 
 
 
-def Carreira_Profissão()
+def relacionamentos()
    vtexto1 =
 """
+Você considera que sua comunicação é aberta e honesta?
 
+você pratica empatia?
+
+você acredita que você pratica o respeito pelas pessoas ?
+
+você acredita que você pratica o  apoio mútuo ?
+
+você acredita estar disposto a comprometer-se e a resolver conflitos de forma construtiva ?
+
+você demonstra interesse genuíno nas pessoas?
+
+você valorizar as opiniões e emoções das pessoas ?
+
+ você está presente quando precisarem de apoio?
+
+ você estabelece limites saudáveis?
+
+você cativa a confiança e cultivar momentos de diversão e conexão?
+
+você pratica a gentileza e a gratidão no dia a dia?
+( pois pequenos gestos podem fortalecer os laços afetivos)
 """
 
 
