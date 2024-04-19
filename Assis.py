@@ -10,19 +10,26 @@ def opcao_areas():
     print("Vamos continuar então...")# Loop para 
     #tempo de espera
 
-    #solicitar a idade dos garotos
+    #solicitar as notas de casa área 
     for nome in nomes_areas:
         nota = int(input("Digite a nota de {}: ".format(nome)))
         areas[nome] = nota
 
 
-    # Ordenar os garotos por idade
+    # Ordenar as piores áreas pela nota 
     areas_ordenadas = sorted(areas, key=areas.get)[:2]
 
     # Retornar os nomes das 2 áreas de menores notas
     print("As áreas de notas mais baixas são: ", areas_ordenadas )
+    time.sleep(2)
 
-
+    #area_negativa1 = (areas_ordenadas, key=areas_ordenadas.get)[:1]
+    #area_negativa2 = (areas_ordenadas, key=areas_ordenadas.get)[:1]
+    #
+    #
+    #
+    #
+    #
 while True:
     texto1 =  """
 Olá. Eu sou um Assistente Virtual pra te ajudar a fazer sua avaliação da roda da vida.
