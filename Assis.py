@@ -169,10 +169,29 @@ você pratica a gentileza e a gratidão no dia a dia?
 
 
 
-def Carreira_Profissão()
+def financas()
    vtexto1 =
 """
 
+você tem disciplina em anotar e acompanhar seu orçamento mensal ?
+
+você consegue fazer economia de dinheiro?
+
+quais investimentos você já fez e prática hoje ?
+
+você já fez algum planejamento de gestão de dívidas? 
+
+você já estabeleceu metas financeiras claras ?
+
+você acompanha regularmente seus gastos ?
+
+você pesquisa sobre diferentes tipos de investimentos e diversifica sua carteira ?
+
+você Prioriza o pagamento de dívidas de alta taxa de juros e evita acumular novas dívidas desnecessárias ?
+
+você já considerou a possibilidade de buscar aconselhamento financeiro profissional ?
+
+você pratica a disciplina financeira ?
 """
 
 
