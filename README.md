@@ -6,16 +6,26 @@ assistente virtual que utiliza a ferramenta de psicologo ou coaches chamado de r
 
 ✅ Identificar as 2 áreas piores
 
-🔳 Criar as opções das áreas da 2a camada
+✅ Criar as opções das áreas da 2a camada
 
 ✅ Criar a introdução, perguntando se quer explicação, opções S e N
 
-🔳
+✅ criar quadriculado da área de finanças
 
-🔳
+✅ ... relacionamentos
 
-🔳
+✅ ... Saúde
 
-🔳
+✅ ... desenvolvimento pessoal
 
-🔳
+✅ ... carreira profissional
+
+🔳 ... espiritualidade
+
+🔳 ... diversão
+
+🔳 ... ambiente
+
+🔳 Conclusão sobre o questionário e a importância dessa avaliação como ferramenta de desenvolvimento pessoal, tendo como reflexão de que sendo como auto-ajuda ou com o apoio profissional, as soluções de problemas ou mesmo apenas o crescimento pessoal de quem já está bem, só depende da própria pessoa querer.
+
+🔳 ... sair / terminar
