@@ -1,5 +1,8 @@
 import time
 
+funcao1 = ""
+funcao2 = ""
+
 # Lista de nomes das area
 nomes_areas = ["Saúde", "Desenvolvimento Pessoal", "Carreira/Profissão", "Relacionamentos", "Finanças", "Espiritualidade", "Diversão", "Ambiente", "SAIR"]
 # Lista para armazenar os dados das áreas
@@ -26,7 +29,9 @@ def opcao_areas():
     #area_negativa1 = (areas_ordenadas, key=areas_ordenadas.get)[:1]
     #area_negativa2 = (areas_ordenadas, key=areas_ordenadas.get)[:1]
     #
-    #
+    #funcao1 = globals()[area_negativa1]
+    #funcao2 = globals()[area_negativa2]
+    #print(funcao1())
     #
     #
     #
