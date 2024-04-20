@@ -2,7 +2,7 @@
 assistente virtual que utiliza a ferramenta de psicologo ou coaches chamado de roda da vida
 
 
-✅ Solicitar notas das 8 áreas 
+✅ Solicitar notas das 8 areas 
 
 ✅ Identificar as 2 áreas piores
 

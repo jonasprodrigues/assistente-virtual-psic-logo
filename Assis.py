@@ -1,4 +1,56 @@
 import time
+import python_avatars as pa
+from tkinter import *
+
+root = Tk()
+
+root.mainloop()
+
+'''
+from PySimpleGUI import PySimpleGUI as sg
+
+#LAYOUT
+sg.theme('Reddit')
+layout = [
+    {sg.Text('Usuario'), sg.Input(key='usuario')},
+    {sg.Text('senha'), sg.Input(key='senha')},
+    {sg.Checkbox('Salvar')},
+    {sg.Button('entrar')},
+]
+#JANELA
+janela = sg.Window('tela login', layout)
+#LER EVENTOS
+while True:
+    eventos, valoes = janela.read()
+    if eventos == sg.WINDOW_CLOSED:
+        break
+    if eventos == 'entrar':
+        ("Vamos continuar então...")# Loop para 
+
+'''
+
+
+my_avatar = pa.Avatar(
+    style=pa.AvatarStyle.CIRCLE,
+    background_color=pa.BackgroundColor.BLACK,
+    top=pa.HairType.STRAIGHT_2,
+    eyebrows=pa.EyebrowType.DEFAULT_NATURAL,
+    eyes=pa.EyeType.DEFAULT,
+    nose=pa.NoseType.DEFAULT,
+    mouth=pa.MouthType.EATING,
+    facial_hair=pa.FacialHairType.NONE,
+    # You can use hex colors on any color attribute...
+    skin_color="#00FFFF",
+    # Or you can use the colors provided by the library
+    hair_color=pa.HairColor.BLACK,
+    accessory=pa.AccessoryType.NONE,
+    clothing=pa.ClothingType.HOODIE,
+    clothing_color=pa.ClothingColor.HEATHER
+)
+
+# Save to a file
+my_avatar.render("my_avatar.svg")
+
 
 funcao1 = ""
 funcao2 = ""
@@ -55,6 +107,7 @@ Com base nessa análise, a pessoa pode definir metas e criar um plano de ação 
     """
     print(texto1)
     time.sleep(2)
+    '''
     texto2 = """
 As 10 áreas comuns frequentemente incluídas na roda da vida:
 
@@ -68,8 +121,13 @@ Espiritualidade: Conexão espiritual, propósito e significado na vida.
 Lazer/Recreação: Atividades de lazer, hobbies e tempo de qualidade para relaxamento.
 Ambiente: Conforto e satisfação com o ambiente físico, seja em casa ou no trabalho.
 Contribuição/Serviço: Sentido de contribuição para a comunidade, voluntariado e impacto social positivo. """
+    
     print(texto2)
+    
+    
     time.sleep(2)
+    '''
+
     escolha = input("Digite 'c' para continuar ou 's' para sair: ")
     if escolha == 'c':
         print("Continuando...")
@@ -83,7 +141,7 @@ Contribuição/Serviço: Sentido de contribuição para a comunidade, voluntaria
 
 
     
-def saude()
+def saude():
     texto1 = """
     Faz quanto tempo que você procurou ajuda médica ?
 
@@ -100,9 +158,8 @@ Você acorda cansado ?
 
 
 
-def desenvolvimento_pessoal()
-    texto1 =
-"""
+def desenvolvimento_pessoal():
+    texto1 ="""
 1. Estabelecer metas claras e alcançáveis.
 2. Aprender continuamente, seja por meio da leitura, cursos online, workshops, etc.
 3. Praticar a auto-reflexão e autoconhecimento.
@@ -120,9 +177,8 @@ def desenvolvimento_pessoal()
 
 
 
-def Carreira_Profissão()
-   vtexto1 =
-"""
+def Carreira_Profissão():
+   vtexto1 ="""
 Desenvolver-se na carreira profissional envolve várias etapas
 
 
@@ -150,9 +206,8 @@ você tem trabalhado de forma consistente para alcançá-los ?
 
 
 
-def relacionamentos()
-   vtexto1 =
-"""
+def relacionamentos():
+   vtexto1 ="""
 Você considera que sua comunicação é aberta e honesta?
 
 você pratica empatia?
@@ -181,9 +236,8 @@ você pratica a gentileza e a gratidão no dia a dia?
 
 
 
-def financas()
-   vtexto1 =
-"""
+def financas():
+   vtexto1 ="""
 
 você tem disciplina em anotar e acompanhar seu orçamento mensal ?
 
@@ -210,41 +264,9 @@ você pratica a disciplina financeira ?
 
 
 
-
-def Carreira_Profissão()
-   vtexto1 =
-"""
-
-"""
-
-
-
-
-
-
-def Carreira_Profissão()
-   vtexto1 =
-"""
-
-"""
-
-
-
-
-
-def Carreira_Profissão()
-   vtexto1 =
-"""
-
-"""
-
-
-
-
-
-def Carreira_Profissão()
-   vtexto1 =
-"""
+'''
+def Carreira_Profissão():
+   vtexto1 ="""
 
 """
 
@@ -254,7 +276,35 @@ def Carreira_Profissão()
 
 
 def Carreira_Profissão()
-   vtexto1 =
-"""
+   vtexto1 ="""
 
 """
+
+
+
+
+
+def Carreira_Profissão():
+   vtexto1 ="""
+
+"""
+
+
+
+
+
+def Carreira_Profissão():
+   vtexto1 ="""
+
+"""
+
+
+
+
+
+
+def Carreira_Profissão()
+   vtexto1 ="""
+
+"""
+'''
