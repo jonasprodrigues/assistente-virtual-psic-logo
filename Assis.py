@@ -265,9 +265,27 @@ você pratica a disciplina financeira ?
 
 
 '''
-def Carreira_Profissão():
+def espiritualidade ():
    vtexto1 ="""
+1. Qual é o propósito da minha vida e como minha espiritualidade pode me guiar para alcançá-lo?
 
+2. Como posso cultivar uma conexão mais profunda comigo mesmo e com os outros?
+
+3. Quais práticas espirituais ressoam mais comigo e como posso integrá-las à minha rotina diária?
+
+4. Quais são os valores fundamentais que guiam minhas ações e como minha espiritualidade influencia esses valores?
+
+5. Como posso encontrar mais significado e propósito nas experiências cotidianas?
+
+6. Qual é o meu relacionamento com o universo ou uma força superior e como posso fortalecê-lo?
+
+7. Como posso cultivar um estado de gratidão e aceitação em minha vida?
+
+8. Quais são os desafios ou bloqueios que impedem o crescimento espiritual e como posso superá-los?
+
+9. De que maneiras posso contribuir para o bem-estar dos outros e do mundo ao meu redor?
+
+10. Como posso praticar o perdão, tanto para os outros quanto para mim mesmo, como parte do meu caminho espiritual?
 """
 
 
