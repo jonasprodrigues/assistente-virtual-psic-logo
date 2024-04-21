@@ -31,3 +31,13 @@ assistente virtual que utiliza a ferramenta de psicologo ou coaches chamado de r
 🔳 Conclusão sobre o questionário e a importância dessa avaliação como ferramenta de desenvolvimento pessoal, tendo como reflexão de que sendo como auto-ajuda ou com o apoio profissional, as soluções de problemas ou mesmo apenas o crescimento pessoal de quem já está bem, só depende da própria pessoa querer.
 
 🔳 ... sair / terminar
+
+🔳 ... criar a janela com o FLET
+
+🔳 ... Criar a imagem do assistente para se assemelhar com uma pessoa
+
+🔳 ... criar botão de gravação 
+
+🔳 ... criar lógica de gravação e fala do assistente
+
+🔳 ... compilar e executável .exe
