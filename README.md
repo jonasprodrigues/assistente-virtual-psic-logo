@@ -24,7 +24,7 @@ assistente virtual que utiliza a ferramenta de psicologo ou coaches chamado de r
 
 ✅ ... diversão
 
-🔳 ... ambiente
+✅ ... ambiente
 
 ✅ criar uma função com o nome da área para buscar a função do questionário daquela área
 
