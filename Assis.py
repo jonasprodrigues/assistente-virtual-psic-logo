@@ -320,9 +320,27 @@ def diversão/lazer()
 
 
 
-def Carreira_Profissão():
+def ambiente():
    vtexto1 ="""
+1. Como me sinto em relação ao ambiente físico da minha casa? Ele me traz paz e conforto, ou sinto que precisa de melhorias?
 
+2. Quais são as mudanças que posso fazer no meu espaço de trabalho para torná-lo mais produtivo e agradável?
+
+3. Como posso contribuir para a preservação e sustentabilidade do meio ambiente na minha comunidade?
+
+4. Quais são as áreas verdes ou parques na minha região que posso explorar para relaxar e conectar-me com a natureza?
+
+5. Como posso reduzir o desperdício e adotar práticas mais ecológicas no meu dia a dia?
+
+6. Quais são as formas de me envolver mais ativamente na minha comunidade local, seja por meio de voluntariado, atividades sociais ou grupos de interesse comum?
+
+7. Qual é o impacto da minha rotina diária no meio ambiente e como posso fazer escolhas mais conscientes para reduzir esse impacto?
+
+8. Como posso criar um ambiente em casa que promova o bem-estar mental e emocional, como um espaço para meditação, leitura ou relaxamento?
+
+9. Quais são os espaços na minha cidade que ainda não explorei e que podem oferecer oportunidades de aprendizado e crescimento?
+
+10. Como posso cultivar relacionamentos mais significativos com meus vizinhos e colegas de trabalho para promover um ambiente mais harmonioso e solidário?
 """
 
 
