@@ -20,7 +20,7 @@ assistente virtual que utiliza a ferramenta de psicologo ou coaches chamado de r
 
 ✅ ... carreira profissional
 
-🔳 ... espiritualidade
+✅ ... espiritualidade
 
 🔳 ... diversão
 
