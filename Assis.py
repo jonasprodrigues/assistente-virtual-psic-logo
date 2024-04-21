@@ -293,9 +293,27 @@ def espiritualidade ():
 
 
 
-def Carreira_Profissão()
+def diversão/lazer()
    vtexto1 ="""
+1. O que me faz sentir verdadeiramente feliz e animado?
 
+2. Quais são minhas paixões e interesses e como posso integrá-los mais em minha vida cotidiana?
+
+3. Quando foi a última vez que me diverti muito e o que estava fazendo?
+
+4. Quais atividades eu gostava de fazer quando era criança e posso trazê-las de volta à minha vida adulta?
+
+5. Quais são os hobbies ou atividades que sempre quis experimentar e ainda não fiz?
+
+6. Como posso reservar tempo regularmente para relaxar e desfrutar do momento presente?
+
+7. Quais são as pequenas coisas que me trazem alegria e como posso incorporá-las mais em minha rotina?
+
+8. Com quem eu gosto de passar tempo e como posso planejar mais atividades juntos?
+
+9. Como posso explorar minha criatividade de maneiras novas e divertidas?
+
+10. Quais são os lugares na minha cidade ou região que ainda não explorei e que podem ser fonte de diversão e aventura?
 """
 
 
