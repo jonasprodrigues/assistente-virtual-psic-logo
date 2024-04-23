@@ -32,7 +32,7 @@ assistente virtual que utiliza a ferramenta de psicologo ou coaches chamado de r
 
 🔳 ... sair / terminar
 
-🔳 ... criar a janela com o FLET
+✅ ... criar a janela com o FLET
 
 🔳 ... Criar a imagem do assistente para se assemelhar com uma pessoa
 

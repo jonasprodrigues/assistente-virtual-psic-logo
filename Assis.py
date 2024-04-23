@@ -1,55 +1,60 @@
+import flet as ft
 import time
-import python_avatars as pa
-from tkinter import *
-
-root = Tk()
-
-root.mainloop()
-
-'''
-from PySimpleGUI import PySimpleGUI as sg
-
-#LAYOUT
-sg.theme('Reddit')
-layout = [
-    {sg.Text('Usuario'), sg.Input(key='usuario')},
-    {sg.Text('senha'), sg.Input(key='senha')},
-    {sg.Checkbox('Salvar')},
-    {sg.Button('entrar')},
-]
-#JANELA
-janela = sg.Window('tela login', layout)
-#LER EVENTOS
-while True:
-    eventos, valoes = janela.read()
-    if eventos == sg.WINDOW_CLOSED:
-        break
-    if eventos == 'entrar':
-        ("Vamos continuar então...")# Loop para 
-
-'''
 
 
-my_avatar = pa.Avatar(
-    style=pa.AvatarStyle.CIRCLE,
-    background_color=pa.BackgroundColor.BLACK,
-    top=pa.HairType.STRAIGHT_2,
-    eyebrows=pa.EyebrowType.DEFAULT_NATURAL,
-    eyes=pa.EyeType.DEFAULT,
-    nose=pa.NoseType.DEFAULT,
-    mouth=pa.MouthType.EATING,
-    facial_hair=pa.FacialHairType.NONE,
-    # You can use hex colors on any color attribute...
-    skin_color="#00FFFF",
-    # Or you can use the colors provided by the library
-    hair_color=pa.HairColor.BLACK,
-    accessory=pa.AccessoryType.NONE,
-    clothing=pa.ClothingType.HOODIE,
-    clothing_color=pa.ClothingColor.HEATHER
-)
+def main(page):
+    # adicionar objetos
+    page.title = "Assistente"
+    page.padding_widht = 10
+    page.padding_height = 5
+    page.update()
 
-# Save to a file
-my_avatar.render("my_avatar.svg")
+    c1 = ft.Container(
+        content = ft.ElevatedButton("Iniciar"),
+        bgcolor="#f67893",
+        padding=10,
+        width=300,
+        )
+    c2 = ft.Container(
+        content = ft.ElevatedButton("Sair"),
+        bgcolor="#f6713",
+        padding=10,
+        width=300,
+        )
+
+    #lista de controles
+    item = [c1, c2]
+
+    #Criando row
+    row = ft.Row(spacing=10, controls=item)
+
+    #Criando colunas
+    coluna = ft.Column(spacing=10, controls=item)
+    
+    #Criando listview
+    lv = ft.ListView(expand=1, spacing=10, padding=20)
+    lv.controls.append(ft.Text("olá"))
+    lv.controls.append(coluna)
+    
+    #Criando GridView
+    gv = ft.GridView(
+        expand=1, runs_count=5, max_extent=150, child_aspect_ratio= 1.0, spacing=5, run_spacing=5,
+        )
+    gv.controls.append(ft.Image(src=f"/medico.png"))
+
+    img = ft.Image(
+        src=f"https://tiinside.com.br/wp-content/uploads/2021/09/Siemens-Susie-768x439.jpg",
+        width=1000,
+        height=1000,
+        fit=ft.ImageFit.CONTAIN,
+    )
+
+    #Adicionando o containe
+    #page.add(row, coluna, lv, gv)
+    page.add(img)
+
+
+ft.app(target=main)
 
 
 funcao1 = ""
@@ -344,21 +349,4 @@ def ambiente():
 """
 
 
-
-
-
-def Carreira_Profissão():
-   vtexto1 ="""
-
-"""
-
-
-
-
-
-
-def Carreira_Profissão()
-   vtexto1 ="""
-
-"""
 '''
